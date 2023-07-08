@@ -10,9 +10,9 @@ redirect_from:
 
 I am a third-year undergraduate from [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/) majoring in Automation. And I will get a bachelor's degree in engineering in 2025 as scheduled. 
 
-I am very fortunate to be advised by [Prof. Zhang](http://faculty.hitsz.edu.cn/zhangying) from School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen.
+I am now advised by [Prof. Zhang](http://faculty.hitsz.edu.cn/zhangying) from School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen.
 
-[Email](mailto:xungong123@outlook.com)
+[Email: xungong123@outlook.com](mailto:xungong123@outlook.com)
 
 
 Recent Research
