@@ -19,6 +19,6 @@ Email: [xungong123@outlook.com](mailto:xungong123@outlook.com)
 
 Educational Background
 ======
-Harbin Institute of Technology, Shenzhen, China 	        Sep 2021 – July 2025 
+Harbin Institute of Technology, Shenzhen, China. Sep 2021 – July 2025 
 
-University of California, San Diego, the U.S.             Sep 2023 – Dec 2023
+University of California, San Diego, the U.S. Sep 2023 – Dec 2023
