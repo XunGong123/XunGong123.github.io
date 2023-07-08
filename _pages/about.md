@@ -15,6 +15,6 @@ I am now advised by [Prof. Zhang](http://faculty.hitsz.edu.cn/zhangying) from Sc
 [Email: xungong123@outlook.com](mailto:xungong123@outlook.com)
 
 
-Recent Research
+Recent Researches
 ======
 Nothing yet.
