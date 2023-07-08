@@ -12,7 +12,7 @@ I am a third-year undergraduate from [Harbin Institute of Technology, Shenzhen](
 
 I am now advised by [Prof. Zhang](http://faculty.hitsz.edu.cn/zhangying) from School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen.
 
-[Email: xungong123@outlook.com](mailto:xungong123@outlook.com)
+Email: [xungong123@outlook.com](mailto:xungong123@outlook.com)
 
 
 Recent Researches
