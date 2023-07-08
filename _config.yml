@@ -1,13 +1,5 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Site Settings
 locale                   : "en-US"
-title                    : "Xun Gong/Personal Homepage"
+title                    : "Xun Gong / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xun Gong"
 description              : &description "personal description"
@@ -80,7 +72,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xun Gong"
+  name             : "Xun Gong (龚勋)"
   avatar           : "profile.png"
   bio              : "Follow your own cause."
   location         : "China"
@@ -96,7 +88,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://xungong123.github.io"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
