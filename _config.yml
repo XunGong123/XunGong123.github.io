@@ -1,5 +1,5 @@
 locale                   : "en-US"
-title                    : "Xun Gong / Personal Homepage"
+title                    : "Xun Gong's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xun Gong"
 description              : &description "personal description"
@@ -75,7 +75,7 @@ author:
   name             : "Xun Gong (龚勋)"
   avatar           : "profile1.png"
   bio              : "Follow your own cause."
-  location         : "China"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
