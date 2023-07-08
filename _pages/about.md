@@ -14,9 +14,6 @@ I am now advised by [Prof. Zhang](http://faculty.hitsz.edu.cn/zhangying) from Sc
 
 You can find my CV here: [Xun Gong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Email: [xungong123@outlook.com](mailto:xungong123@outlook.com)
-
-
 Educational Background
 ======
 Harbin Institute of Technology, Shenzhen, China. (Sep 2021 – July 2025) 
