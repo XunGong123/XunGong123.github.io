@@ -10,9 +10,9 @@ redirect_from:
 
 I am a third-year undergraduate from [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/) majoring in Automation. And I will obtain Bachelor's degree of Engineering in 2025 as scheduled. 
 
-I am now advised by [Prof. Zhang](http://faculty.hitsz.edu.cn/zhangying) from School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen.
+I am now advised by [Prof. Ying Zhang](http://faculty.hitsz.edu.cn/zhangying) from School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen, and researching solutions of Lyapunov matrix equations.
 
-You can find my CV here: [Xun Gong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+My CV is here: [Xun Gong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 Educational Background
 ======
