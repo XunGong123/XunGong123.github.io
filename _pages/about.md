@@ -16,6 +16,6 @@ My CV is here: [Xun Gong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 Educational Background
 ======
-**·** Harbin Institute of Technology, Shenzhen, China. (Sep 2021 – July 2025) 
+**·** Harbin Institute of Technology, Shenzhen, China. (Sep 2021 – June 2025) 
 
 **·** University of California, San Diego, United States of America (Sep 2023 – Dec 2023)
