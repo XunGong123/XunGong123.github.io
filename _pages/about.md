@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate from Harbin Institute of Technology, Shenzhen majoring in Automation. And I will obtain Bachelor's degree of Engineering in 2025 as scheduled. 
+I am a third-year undergraduate from [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/) majoring in Automation. And I will obtain Bachelor's degree of Engineering in 2025 as scheduled. 
 
 I am now advised by [Prof. Zhang](http://faculty.hitsz.edu.cn/zhangying) from School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen.
 
@@ -18,4 +18,4 @@ Educational Background
 ======
 Harbin Institute of Technology, Shenzhen, China. (Sep 2021 – July 2025) 
 
-University of California, San Diego, the U.S. (Sep 2023 – Dec 2023)
+University of California, San Diego, United States of America (Sep 2023 – Dec 2023)
