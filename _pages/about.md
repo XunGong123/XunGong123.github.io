@@ -10,11 +10,11 @@ redirect_from:
 
 I am a junior student from [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/) majoring in Automation. And I will obtain Bachelor's degree of Engineering in July 2025 as scheduled. 
 
+In 2023 fall, I am now an exchange student at [University of California, San Diego](https://ucsd.edu/) in ECE.
+
 I was advised by [Prof. Ying Zhang](http://faculty.hitsz.edu.cn/zhangying) from School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen in the summer of 2023, and investigated iterative algorithms of Lyapunov matrix equations.
 
-In 2023 fall, I am a exchange student at [University of California, San Diego](https://ucsd.edu/) in ECE.
-
-I take interest in circuits design and analysis, signal processing and wireless communication, and want to find more opportunities in these fields.
+I take interest in RF circuits and system, deep learning, craving for more opportunities in these fields.
 
 My CV is here: [Xun Gong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
@@ -22,4 +22,4 @@ Educational Background
 ======
 **·** Harbin Institute of Technology, Shenzhen, China. (Sep 2021 – July 2025) 
 
-**·** University of California, San Diego, USA (Sep 2023 – Dec 2023)
+**·** University of California, San Diego, USA (Sep 2023 – )
