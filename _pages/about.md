@@ -12,9 +12,9 @@ I am a junior student from [Harbin Institute of Technology, Shenzhen](http://en.
 
 In 2023 fall, I am now an exchange student at [University of California, San Diego](https://ucsd.edu/) in ECE.
 
-I was advised by [Prof. Ying Zhang](http://faculty.hitsz.edu.cn/zhangying) from School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen in the summer of 2023, and investigated iterative algorithms of Lyapunov matrix equations.
+I was advised by [Prof. Ying Zhang](http://faculty.hitsz.edu.cn/zhangying) from School of Mechanical Engineering and Automation, Harbin Institute of Technology, Shenzhen, and investigated iterative algorithms of Lyapunov matrix equations in the summer of 2023.
 
-I take interest in RF circuits and system, deep learning, craving for more opportunities in these fields.
+I take interest in RF circuits & systems and deep learning, craving for opportunities in these fields.
 
 My CV is here: [Xun Gong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
