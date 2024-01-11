@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Profile of Xun Gong"
-excerpt: "My Profile"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
