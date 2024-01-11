@@ -73,13 +73,13 @@ analytics:
 # Site Author
 author:
   name             : "Xun Gong (龚勋)"
-  avatar           : "profile2.png"
+  avatar           : "SD.png"
   bio              : "Follow your own cause."
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "xungong123@outlook.com"
+  email            : "xungong123@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -93,8 +93,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/0009-0001-8857-2307"
+  linkedin         : "https://www.linkedin.com/in/xun-gong-b37005292"
+  orcid            : #"http://orcid.org/0009-0001-8857-2307"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
