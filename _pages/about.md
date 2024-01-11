@@ -14,7 +14,7 @@ Now, I am doing research at [MUSIC Lab](https://music-sustech.github.io/) of Sou
 
 In 2023 fall, I was a visiting student at [University of California, San Diego](https://ucsd.edu/) in ECE. I participated in a project investigating cultural differences of facial expressions with methods like CNN and Vision Transformer in [Prof. Xinyu Zhang](https://jacobsschool.ucsd.edu/people/profile/xinyu-zhang)'s Lab.
 
-I was advised by [Prof. Ying Zhang](http://faculty.hitsz.edu.cn/zhangying) from Harbin Institute of Technology, Shenzhen, and investigated iterative algorithms of Lyapunov matrix equations in the summer of 2023.
+I was advised by [Prof. Ying Zhang](http://faculty.hitsz.edu.cn/zhangying) from Harbin Institute of Technology, Shenzhen, and investigated iterative algorithms of Lyapunov matrix equations from July to August of 2023.
 
 My CV is here: [Xun Gong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
