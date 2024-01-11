@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-As a junior undergraduate from Harbin Institute of Technology (HIT), Shenzhen  majoring in Automation, I am going to obtain the degree of B.Eng in July 2025. My research interest lies in RF/Analog Circuits and Systems Design.
+As a junior undergraduate from Harbin Institute of Technology (HIT), Shenzhen  majoring in Automation, I will obtain the degree of B.Eng in July 2025 in schedule. My research interest lies in RF/Analog Circuits and Systems Design.
 
 Now, I am engaging in RF circuits design in [MUSIC Lab](https://music-sustech.github.io/) at SUSTech advised by [Prof. Xiaoguang (Leo)Liu](https://faculty.sustech.edu.cn/?tagid=liuxg&iscss=1&snapid=1&orderby=date&go=1).
 
