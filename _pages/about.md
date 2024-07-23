@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "about me"
-excerpt: "about me"
+title: "Introduction"
+excerpt: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,5 +10,5 @@ redirect_from:
 
 My CV is here: [Xun Gong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Educational Background
+Waiting for update ...
 ======
